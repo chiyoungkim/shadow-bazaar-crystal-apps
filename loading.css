@@ -15,7 +15,7 @@
 }
 
 #enter {
-  width: 100%;
+  width: 300px;
   height: 40px;
   background-color: black;
   text-align: center; /* To center it horizontally (if you want) */
@@ -24,13 +24,13 @@
 }
 
 #welcome-image {
-  width: 100%;
+  width: 95%;
 }
 
 .welcome-container {
   margin: 0;
   position: absolute;
-  top: 50vh;
+  top: 40vh;
   left: 50vw;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
