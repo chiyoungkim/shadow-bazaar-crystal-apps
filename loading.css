@@ -15,7 +15,7 @@
 }
 
 #enter {
-  width: 300px;
+  width: 100%;
   height: 40px;
   background-color: black;
   text-align: center; /* To center it horizontally (if you want) */
