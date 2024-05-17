@@ -29,5 +29,5 @@ function move() {
 move();
 
 enterButton.addEventListener("click", () => {
-    window.location.href = "https://chiyoungkim.github.io/shadow-bazaar-crystal-apps/";
+    window.location.href = "https://chiyoungkim.github.io/shadow-bazaar-crystal-apps/index.html";
 });
